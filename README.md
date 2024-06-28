@@ -9,7 +9,7 @@ This app is made from a Flutter & Firebase Crash Course (codeWithAndrea), which 
 To follow along with the crash course, get the starter project by cloning this repo:
 
 ```
-git clone https://github.com/bizz84/jobs_crud_app
+git clone https://github.com/alvaral/jobs_crud_app
 cd jobs_crud_app
 git checkout starter-project
 ```
